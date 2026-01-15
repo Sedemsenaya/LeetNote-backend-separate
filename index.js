@@ -1,7 +1,7 @@
 const express = require("express");
 // const mysql = require("mysql2/promise");
-const sqlite3 = require("sqlite3").verbose();
-const db = new sqlite3.Database("./leetnote.db");
+const fs = require("fs");
+const problems = JSON.parse(fs.readFileSync("./leetnote.json", "utf8"));
 const cors = require("cors");
 const path = require("path");
 
@@ -53,21 +53,25 @@ app.get("/", (req, res) => {
 //     res.json(rows);
 // });
 
+// app.get("/problems", (req, res) => {
+//     console.log("🔥 /problems HANDLER reached");
+//
+//     db.all(
+//         "SELECT id, Problem, Pattern, Note, Visualization, Difficulty FROM leetnote",
+//         (err, rows) => {
+//             if (err) {
+//                 console.error("DB ERROR:", err);
+//                 return res.status(500).json({ error: "Database error" });
+//             }
+//             res.json(rows);
+//         }
+//     );
+// });
+
+
 app.get("/problems", (req, res) => {
-    console.log("🔥 /problems HANDLER reached");
-
-    db.all(
-        "SELECT id, Problem, Pattern, Note, Visualization, Difficulty FROM leetnote",
-        (err, rows) => {
-            if (err) {
-                console.error("DB ERROR:", err);
-                return res.status(500).json({ error: "Database error" });
-            }
-            res.json(rows);
-        }
-    );
+    res.json(problems);
 });
-
 
 // Render requires dynamic port
 const PORT = process.env.PORT || 3002;

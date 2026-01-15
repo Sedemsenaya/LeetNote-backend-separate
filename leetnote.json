@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "Problem": "LC17 - Letter Combinations of a Phone Number",
+    "Description": "Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent. Return the answer in any order.\nA mapping of digits to letters is given on the telephone buttons.",
+    "Input": "digits = \"23\"",
+    "Output": "[\"ad\",\"ae\",\"af\",\"bd\",\"be\",\"bf\",\"cd\",\"ce\",\"cf\"]",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC17_Letter_Combinations_of_a_Phone_Number/20.12.2025_11.52.18_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 2,
+    "Problem": "LC22 - Generate Parentheses",
+    "Description": "Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.",
+    "Input": "n = 3",
+    "Output": "[\"((()))\",\"(()())\",\"(())()\",\"()(())\",\"()()()\"]",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC22_Generate_Parentheses/23.12.2025_21.34.09_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "Problem": "LC37 - Sudoku Solver",
+    "Description": "Write a program to solve a Sudoku puzzle by filling the empty cells.\nA solution must satisfy all Sudoku rules.",
+    "Input": "board = 9x9 char grid with \".\" as empty cells",
+    "Output": "Solved Sudoku board",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC37_Sudoku_Solver/29.12.2025_10.42.46_REC.mp4",
+    "Difficulty": "Hard"
+  },
+  {
+    "id": 4,
+    "Problem": "LC39 - Combination Sum",
+    "Description": "Given an array of distinct integers candidates and a target integer target, return all unique combinations where the chosen numbers sum to target.\nThe same number may be chosen unlimited times.",
+    "Input": "candidates = [2,3,6,7], target = 7",
+    "Output": "[[2,2,3],[7]]",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC39_Combination_Sum/23.12.2025_21.47.01_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "Problem": "LC40 - Combination Sum II",
+    "Description": "Given a collection of candidate numbers that may contain duplicates, return all unique combinations where the numbers sum to target.\nEach number may only be used once.",
+    "Input": "candidates = [10,1,2,7,6,1,5], target = 8",
+    "Output": "[[1,1,6],[1,2,5],[1,7],[2,6]]",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC40_Combination_Sum_II/23.12.2025_22.03.08_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "Problem": "LC46 - Permutations",
+    "Description": "Given an array nums of distinct integers, return all possible permutations.",
+    "Input": "nums = [1,2,3]",
+    "Output": "[[1,2,3],[1,3,2],[2,1,3],[2,3,1],[3,1,2],[3,2,1]]",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC46_Permutations/30.12.2025_10.11.17_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "Problem": "LC47 - Permutations II",
+    "Description": "Given a collection of numbers that might contain duplicates, return all possible unique permutations.",
+    "Input": "nums = [1,1,2]",
+    "Output": "[[1,1,2],[1,2,1],[2,1,1]]",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC47_Permutations_II/30.12.2025_11.53.49_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 8,
+    "Problem": "LC51 - N-Queens",
+    "Description": "Place n queens on an n x n chessboard such that no two queens attack each other.\nReturn all distinct solutions.",
+    "Input": "n = 4",
+    "Output": "[[\".Q..\",\"...Q\",\"Q...\",\"..Q.\"],[\"..Q.\",\"Q...\",\"...Q\",\".Q..\"]]",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC51_N_Queens/20.12.2025_12.25.46_REC.mp4",
+    "Difficulty": "Hard"
+  },
+  {
+    "id": 9,
+    "Problem": "LC52 - N-Queens II",
+    "Description": "Return the number of distinct solutions to the n-queens puzzle.",
+    "Input": "n = 4",
+    "Output": "2",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC52_N_Queens_II/20.12.2025_12.42.01_REC.mp4",
+    "Difficulty": "Hard"
+  },
+  {
+    "id": 10,
+    "Problem": "LC77 - Combinations",
+    "Description": "Given two integers n and k, return all possible combinations of k numbers chosen from the range [1, n].",
+    "Input": "n = 4, k = 2",
+    "Output": "[[1,2],[1,3],[1,4],[2,3],[2,4],[3,4]]",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC77_Combinations/29.12.2025_11.21.04_REC.mp4",
+    "Difficulty": "Medium"
+  }
+]
