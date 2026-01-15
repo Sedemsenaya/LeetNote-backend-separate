@@ -32,7 +32,7 @@ app.use((req, res, next) => {
 // });
 
 // SQLite database (local file)
-const db = new Database(path.join(__dirname, "leetnote.db"));
+// const db = new Database(path.join(__dirname, "leetnote.db"));
 
 
 
