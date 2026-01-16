@@ -78,5 +78,733 @@
     "Note": "",
     "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC77_Combinations/29.12.2025_11.21.04_REC.mp4",
     "Difficulty": "Medium"
+  },
+  {
+    "id": 11,
+    "Problem": "LC78 - Subsets,\n\nDescription:\nGiven an integer array nums of unique elements, return all possible subsets (the power set).\nThe solution set must not contain duplicate subsets.\n\nInput:\nnums = [1,2,3]\n\nOutput:\n[[],[1],[2],[3],[1,2],[1,3],[2,3],[1,2,3]]",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC78_Subsets/29.12.2025_12.41.41_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 12,
+    "Problem": "LC79 - Word Search,\n\nDescription:\nGiven an m x n grid of characters board and a string word, return true if word exists in the grid.\nThe word can be constructed from letters of sequentially adjacent cells (horizontally or vertically).\nThe same cell may not be used more than once.\n\nInput:\nboard = [[\"A\",\"B\",\"C\",\"E\"],[\"S\",\"F\",\"C\",\"S\"],[\"A\",\"D\",\"E\",\"E\"]], word = \"ABCCED\"\n\nOutput:\ntrue",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC79_Word_Search/23.12.2025_22.27.49_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 13,
+    "Problem": "LC90 - Subsets II,\n\nDescription:\nGiven an integer array nums that may contain duplicates, return all possible subsets.\nThe solution set must not contain duplicate subsets.\n\nInput:\nnums = [1,2,2]\n\nOutput:\n[[],[1],[1,2],[1,2,2],[2],[2,2]]",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC90_Subsets_II/29.12.2025_12.48.08_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 14,
+    "Problem": "LC93 - Restore IP Addresses,\n\nDescription:\nGiven a string s containing only digits, return all possible valid IP addresses.\nAn IP address consists of exactly four integers (each between 0 and 255) separated by dots.\n\nInput:\ns = \"25525511135\"\n\nOutput:\n[\"255.255.11.135\",\"255.255.111.35\"]",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC93_Restore_IP_Addresses/29.12.2025_13.06.26_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 15,
+    "Problem": "LC131 - Palindrome Partitioning,\n\nDescription:\nGiven a string s, partition s such that every substring of the partition is a palindrome.\nReturn all possible palindrome partitioning of s.\n\nInput:\ns = \"aab\"\n\nOutput:\n[[\"a\",\"a\",\"b\"],[\"aa\",\"b\"]]",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC131_Palindrome_Partitioning/29.12.2025_13.23.33_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 16,
+    "Problem": "LC140 - Word Break II,\n\nDescription:\nGiven a string s and a dictionary of strings wordDict, return all possible sentences where s can be segmented into a space-separated sequence of dictionary words.\n\nInput:\ns = \"catsanddog\", wordDict = [\"cat\",\"cats\",\"and\",\"sand\",\"dog\"]\n\nOutput:\n[\"cats and dog\",\"cat sand dog\"]",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC140_Word_Break_II/29.12.2025_13.35.30_REC.mp4",
+    "Difficulty": "Hard"
+  },
+  {
+    "id": 17,
+    "Problem": "LC216 - Combination Sum III,\n\nDescription:\nFind all valid combinations of k numbers that sum to n.\nOnly numbers 1 through 9 can be used and each number is used at most once.\n\nInput:\nk = 3, n = 7\n\nOutput:\n[[1,2,4]]",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC216_Combination_Sum_III/29.12.2025_13.43.23_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "Problem": "LC282 - Expression Add Operators,\n\nDescription:\nGiven a string num and an integer target, return all possibilities to insert binary operators (+, -, *) between digits so that the expression evaluates to target.\n\nInput:\nnum = \"123\", target = 6\n\nOutput:\n[\"1+2+3\",\"1*2*3\"]",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC282_Expression_Add_Operators/29.12.2025_13.53.55_REC.mp4",
+    "Difficulty": "Hard"
+  },
+  {
+    "id": 19,
+    "Problem": "LC401 - Binary Watch,\n\nDescription:\nA binary watch has LEDs representing hours and minutes.\nGiven an integer turnedOn, return all possible times the watch could represent.\n\nInput:\nturnedOn = 1\n\nOutput:\n[\"0:01\",\"0:02\",\"0:04\",\"0:08\",\"0:16\",\"0:32\",\"1:00\",\"2:00\",\"4:00\",\"8:00\"]",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC401_Binary_Watch/29.12.2025_14.02.54_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 20,
+    "Problem": "LC473 - Matchsticks to Square,\n\nDescription:\nYou are given an array of matchsticks.\nReturn true if you can form a square using all matchsticks exactly once.\n\nInput:\nmatchsticks = [1,1,2,2,2]\n\nOutput:\ntrue",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC473_Matchsticks_to_Square/29.12.2025_14.14.41_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 21,
+    "Problem": "LC491 - Non-decreasing Subsequences,\n\nDescription:\nGiven an integer array nums, return all different possible non-decreasing subsequences with at least two elements.\n\nInput:\nnums = [4,6,7,7]\n\nOutput:\n[[4,6],[4,7],[4,6,7],[6,7],[7,7],[4,7,7],[6,7,7]]",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC491_Non_decreasing_Subsequences/29.12.2025_14.22.51_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 22,
+    "Problem": "LC526 - Beautiful Arrangement,\n\nDescription:\nGiven an integer n, count the number of beautiful arrangements.\nAn arrangement is beautiful if for every position i, either perm[i] % i == 0 or i % perm[i] == 0.\n\nInput:\nn = 2\n\nOutput:\n2",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC526_Beautiful_Arrangement/29.12.2025_14.34.49_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 23,
+    "Problem": "LC698 - Partition to K Equal Sum Subsets,\n\nDescription:\nGiven an integer array nums and an integer k, return true if it is possible to divide nums into k non-empty subsets with equal sum.\n\nInput:\nnums = [4,3,2,3,5,2,1], k = 4\n\nOutput:\ntrue",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC698_Partition_to_K_Equal_Sum_Subsets/29.12.2025_14.40.46_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 24,
+    "Problem": "LC784 - Letter Case Permutation,\n\nDescription:\nGiven a string s, return a list of strings where you can transform every letter to lowercase or uppercase.\n\nInput:\ns = \"a1b2\"\n\nOutput:\n[\"a1b2\",\"a1B2\",\"A1b2\",\"A1B2\"]",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC784_Letter_Case_Permutation/29.12.2025_15.18.49_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 25,
+    "Problem": "LC1087 - Brace Expansion,\n\nDescription:\nGiven a string s representing a brace expansion expression, return all possible expanded strings in lexicographical order.\n\nInput:\ns = \"{a,b}c{d,e}f\"\n\nOutput:\n[\"acdf\",\"acef\",\"bcdf\",\"bcef\"]",
+    "Pattern": "Backtracking",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Backtracking/leetcode_backtracking_java_25/LC1087_Brace_Expansion/29.12.2025_15.39.54_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 26,
+    "Problem": "LC4 - Median of Two Sorted Arrays,\n\nDescription:\nGiven two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.\n\nInput:\nnums1 = [1,3], nums2 = [2]\n\nOutput:\n2.0",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC4_Median_of_Two_Sorted_Arrays/24.12.2025_14.18.49_REC.mp4",
+    "Difficulty": "Hard"
+  },
+  {
+    "id": 27,
+    "Problem": "LC33 - Search in Rotated Sorted Array,\n\nDescription:\nGiven a rotated sorted array with distinct values, return the index of target if it exists. Otherwise, return -1.\n\nInput:\nnums = [4,5,6,7,0,1,2], target = 0\n\nOutput:\n4",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC33_Search_in_Rotated_Sorted_Array/20.12.2025_16.11.08_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 28,
+    "Problem": "LC34 - Find First and Last Position of Element in Sorted Array,\n\nDescription:\nGiven an array sorted in non-decreasing order, find the starting and ending position of a given target value.\n\nInput:\nnums = [5,7,7,8,8,10], target = 8\n\nOutput:\n[3,4]",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/24.12.2025_14.22.12_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "Problem": "LC35 - Search Insert Position,\n\nDescription:\nGiven a sorted array and a target value, return the index if found. If not, return the index where it would be inserted.\n\nInput:\nnums = [1,3,5,6], target = 5\n\nOutput:\n2",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC35_Search_Insert_Position/24.12.2025_14.25.34_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 30,
+    "Problem": "LC69 - Sqrt(x),\n\nDescription:\nGiven a non-negative integer x, return the square root of x rounded down to the nearest integer.\n\nInput:\nx = 8\n\nOutput:\n2",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC69_Sqrt_x/24.12.2025_14.27.35_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 30,
+    "Problem": "LC69 - Sqrt(x),\n\nDescription:\nGiven a non-negative integer x, return the square root of x rounded down to the nearest integer.\n\nInput:\nx = 8\n\nOutput:\n2",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC69_Sqrt_x/24.12.2025_14.27.35_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 31,
+    "Problem": "LC74 - Search a 2D Matrix,\n\nDescription:\nGiven an m x n matrix where each row is sorted and the first integer of each row is greater than the last integer of the previous row, return true if target exists.\n\nInput:\nmatrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 3\n\nOutput:\ntrue",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC74_Search_a_2D_Matrix/20.12.2025_15.17.16_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "Problem": "LC81 - Search in Rotated Sorted Array II,\n\nDescription:\nGiven a rotated sorted array that may contain duplicates, return true if target exists.\n\nInput:\nnums = [2,5,6,0,0,1,2], target = 0\n\nOutput:\ntrue",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC81_Search_in_Rotated_Sorted_Array_II/24.12.2025_14.30.15_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "Problem": "LC153 - Find Minimum in Rotated Sorted Array,\n\nDescription:\nGiven a rotated sorted array with unique elements, find the minimum element.\n\nInput:\nnums = [3,4,5,1,2]\n\nOutput:\n1",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC153_Find_Minimum_in_Rotated_Sorted_Array/24.12.2025_14.32.00_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 34,
+    "Problem": "LC162 - Find Peak Element,\n\nDescription:\nA peak element is an element that is strictly greater than its neighbors. Return the index of any peak element.\n\nInput:\nnums = [1,2,3,1]\n\nOutput:\n2",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC162_Find_Peak_Element/24.12.2025_14.34.17_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 35,
+    "Problem": "LC278 - First Bad Version,\n\nDescription:\nYou are given an API isBadVersion(version). Find the first bad version which causes all later versions to be bad.\n\nInput:\nn = 5, bad = 4\n\nOutput:\n4",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Two Pointers/leetcode_two_pointers_java_25/LC27_Remove_Element/24.12.2025_10.52.19_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 36,
+    "Problem": "LC300 - Longest Increasing Subsequence,\n\nDescription:\nGiven an integer array nums, return the length of the longest strictly increasing subsequence.\n\nInput:\nnums = [10,9,2,5,3,7,101,18]\n\nOutput:\n4",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC300_Longest_Increasing_Subsequence/27.12.2025_15.37.44_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 37,
+    "Problem": "LC354 - Russian Doll Envelopes,\n\nDescription:\nYou are given envelopes with widths and heights. One envelope can fit into another if both width and height are greater. Return the maximum number of envelopes you can nest.\n\nInput:\nenvelopes = [[5,4],[6,4],[6,7],[2,3]]\n\nOutput:\n3",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC354_Russian_Doll_Envelopes/24.12.2025_14.43.36_REC.mp4",
+    "Difficulty": "Hard"
+  },
+  {
+    "id": 38,
+    "Problem": "LC367 - Valid Perfect Square,\n\nDescription:\nGiven a positive integer num, return true if num is a perfect square.\n\nInput:\nnum = 16\n\nOutput:\ntrue",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC367_Valid_Perfect_Square/20.12.2025_16.06.52_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 39,
+    "Problem": "LC374 - Guess Number Higher or Lower,\n\nDescription:\nGuess a number picked from 1 to n using a provided API guess().\n\nInput:\nn = 10, pick = 6\n\nOutput:\n6",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Sliding Window/leetcode_sliding_window_java_25/LC3_Longest_Substring_Without_Repeating_Characters/29.12.2025_09.52.40_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 40,
+    "Problem": "LC410 - Split Array Largest Sum,\n\nDescription:\nSplit an array into k subarrays such that the largest sum among these subarrays is minimized.\n\nInput:\nnums = [7,2,5,10,8], k = 2\n\nOutput:\n18",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC410_Split_Array_Largest_Sum/24.12.2025_14.47.59_REC.mp4",
+    "Difficulty": "Hard"
+  },
+  {
+    "id": 41,
+    "Problem": "LC540 - Single Element in a Sorted Array,\n\nDescription:\nGiven a sorted array where every element appears twice except one, find the single element.\n\nInput:\nnums = [1,1,2,3,3,4,4,8,8]\n\nOutput:\n2",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC540_Single_Element_in_a_Sorted_Array/24.12.2025_14.53.44_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "Problem": "LC704 - Binary Search,\n\nDescription:\nGiven a sorted array of integers and a target value, return the index if found, otherwise -1.\n\nInput:\nnums = [-1,0,3,5,9,12], target = 9\n\nOutput:\n4",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC704_Binary_Search/24.12.2025_14.58.49_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 43,
+    "Problem": "LC719 - Find K-th Smallest Pair Distance,\n\nDescription:\nReturn the k-th smallest absolute difference between any two elements.\n\nInput:\nnums = [1,3,1], k = 1\n\nOutput:\n0",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC719_Find_K_th_Smallest_Pair_Distance/24.12.2025_15.00.54_REC.mp4",
+    "Difficulty": "Hard"
+  },
+  {
+    "id": 44,
+    "Problem": "LC744 - Find Smallest Letter Greater Than Target,\n\nDescription:\nGiven a sorted list of letters, return the smallest letter that is strictly greater than target.\n\nInput:\nletters = [\"c\",\"f\",\"j\"], target = \"a\"\n\nOutput:\n\"c\"",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC744_Find_Smallest_Letter_Greater_Than_Target/24.12.2025_15.03.47_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 45,
+    "Problem": "LC852 - Peak Index in a Mountain Array,\n\nDescription:\nGiven a mountain array, return the index of the peak.\n\nInput:\narr = [0,2,4,3,1]\n\nOutput:\n2",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC852_Peak_Index_in_a_Mountain_Array/24.12.2025_15.06.56_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "Problem": "LC875 - Koko Eating Bananas,\n\nDescription:\nKoko eats bananas at speed k per hour. Return the minimum k so she can finish all bananas within h hours.\n\nInput:\npiles = [3,6,7,11], h = 8\n\nOutput:\n4",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC875_Koko_Eating_Bananas/20.12.2025_15.40.37_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "Problem": "LC1011 - Capacity To Ship Packages Within D Days,\n\nDescription:\nReturn the least weight capacity of the ship to ship all packages within D days.\n\nInput:\nweights = [1,2,3,4,5,6,7,8,9,10], D = 5\n\nOutput:\n15",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC1011_Capacity_To_Ship_Packages_Within_D_Days/24.12.2025_15.10.24_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "Problem": "LC1283 - Find the Smallest Divisor Given a Threshold,\n\nDescription:\nFind the smallest divisor such that the sum of divisions is less than or equal to threshold.\n\nInput:\nnums = [1,2,5,9], threshold = 6\n\nOutput:\n5",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC1283_Find_the_Smallest_Divisor_Given_a_Threshold/20.12.2025_15.53.51_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "Problem": "LC1482 - Minimum Number of Days to Make m Bouquets,\n\nDescription:\nReturn the minimum number of days needed to make m bouquets from adjacent flowers.\n\nInput:\nbloomDay = [1,10,3,10,2], m = 3, k = 1\n\nOutput:\n3",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC1482_Minimum_Number_of_Days_to_Make_m_Bouquets/24.12.2025_15.22.25_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "Problem": "LC1552 - Magnetic Force Between Two Balls,\n\nDescription:\nPlace m balls in positions such that the minimum magnetic force between any two balls is maximized.\n\nInput:\nposition = [1,2,3,4,7], m = 3\n\nOutput:\n3",
+    "Pattern": "Binary Search",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Binary Search/leetcode_binary_search_java_25_with_main/LC1552_Magnetic_Force_Between_Two_Balls/24.12.2025_15.29.48_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "Problem": "LC5 - Longest Palindromic Substring,\n\nDescription:\nGiven a string s, return the longest palindromic substring in s.\n\nInput:\ns = \"babad\"\n\nOutput:\n\"bab\"",
+    "Pattern": "Dynamic Programming (Bottom-Up)",
+    "Note": "",
+    "Visualization": "TODO",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "Problem": "LC44 - Wildcard Matching,\n\nDescription:\nGiven an input string s and a pattern p, implement wildcard pattern matching with support for \"?\" and \"*\".\n\nInput:\ns = \"adceb\", p = \"*a*b\"\n\nOutput:\ntrue",
+    "Pattern": "Dynamic Programming (Bottom-Up)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Dynamic Programming(Bottom-Up)/LC44_WildcardMatching/21.12.2025_14.40.25_REC.mp4",
+    "Difficulty": "Hard"
+  },
+  {
+    "id": 53,
+    "Problem": "LC53 - Maximum Subarray,\n\nDescription:\nGiven an integer array nums, find the contiguous subarray with the largest sum and return its sum.\n\nInput:\nnums = [-2,1,-3,4,-1,2,1,-5,4]\n\nOutput:\n6",
+    "Pattern": "Dynamic Programming (Bottom-Up)",
+    "Note": "",
+    "Visualization": "TODO",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "Problem": "LC120 - Triangle,\n\nDescription:\nGiven a triangle array, return the minimum path sum from top to bottom. At each step, you may move to adjacent numbers on the row below.\n\nInput:\ntriangle = [[2],[3,4],[6,5,7],[4,1,8,3]]\n\nOutput:\n11",
+    "Pattern": "Dynamic Programming (Bottom-Up)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Dynamic Programming(Bottom-Up)/LC120_Triangle/21.12.2025_13.05.37_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "Problem": "LC139 - Word Break,\n\nDescription:\nGiven a string s and a dictionary of strings wordDict, return true if s can be segmented into a space-separated sequence of dictionary words.\n\nInput:\ns = \"leetcode\", wordDict = [\"leet\",\"code\"]\n\nOutput:\ntrue",
+    "Pattern": "Dynamic Programming (Bottom-Up)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Dynamic Programming(Bottom-Up)/LC139_WordBreak/21.12.2025_20.29.55_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "Problem": "LC152 - Maximum Product Subarray,\n\nDescription:\nGiven an integer array nums, find a contiguous subarray that has the largest product.\n\nInput:\nnums = [2,3,-2,4]\n\nOutput:\n6",
+    "Pattern": "Dynamic Programming (Bottom-Up)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Dynamic Programming(Bottom-Up)/LC152_Max_ProductSubarray/27.12.2025_10.16.08_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 57,
+    "Problem": "LC174 - Dungeon Game,\n\nDescription:\nA knight must reach the princess with minimum initial health. Return the minimum initial health needed.\n\nInput:\ndungeon = [[-2,-3,3],[-5,-10,1],[10,30,-5]]\n\nOutput:\n7",
+    "Pattern": "Dynamic Programming (Bottom-Up)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Dynamic Programming(Bottom-Up)/LC174_DungeonGame/21.12.2025_14.20.02_REC.mp4",
+    "Difficulty": "Hard"
+  },
+  {
+    "id": 58,
+    "Problem": "LC198 - House Robber,\n\nDescription:\nYou cannot rob adjacent houses. Return the maximum amount of money you can rob.\n\nInput:\nnums = [1,2,3,1]\n\nOutput:\n4",
+    "Pattern": "Dynamic Programming (Bottom-Up)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Dynamic Programming(Bottom-Up)/LC198-HouseRobber/17.12.2025_14.35.17_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "Problem": "LC213 - House Robber II,\n\nDescription:\nHouses are arranged in a circle. Return the maximum amount of money you can rob.\n\nInput:\nnums = [2,3,2]\n\nOutput:\n3",
+    "Pattern": "Dynamic Programming (Bottom-Up)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Dynamic Programming(Bottom-Up)/LC213_HouseRobber_II/21.12.2025_13.20.48_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 60,
+    "Problem": "LC221 - Maximal Square,\n\nDescription:\nGiven a binary matrix, find the largest square containing only 1s and return its area.\n\nInput:\nmatrix = [[\"1\",\"0\",\"1\",\"0\",\"0\"],[\"1\",\"0\",\"1\",\"1\",\"1\"],[\"1\",\"1\",\"1\",\"1\",\"1\"],[\"1\",\"0\",\"0\",\"1\",\"0\"]]\n\nOutput:\n4",
+    "Pattern": "Dynamic Programming (Bottom-Up)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Dynamic Programming(Bottom-Up)/LC221_MaximalSquare/21.12.2025_13.29.46_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "Problem": "LC279 - Perfect Squares,\n\nDescription:\nGiven an integer n, return the least number of perfect square numbers that sum to n.\n\nInput:\nn = 12\n\nOutput:\n3",
+    "Pattern": "Dynamic Programming (Bottom-Up)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Dynamic Programming(Bottom-Up)/LC279_PerfectSquares/21.12.2025_13.39.24_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 62,
+    "Problem": "LC368 - Largest Divisible Subset,\n\nDescription:\nGiven a set of distinct positive integers, find the largest subset such that every pair (a, b) satisfies a % b == 0 or b % a == 0.\n\nInput:\nnums = [1,2,3]\n\nOutput:\n[1,2]",
+    "Pattern": "Dynamic Programming (Bottom-Up)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Dynamic Programming(Bottom-Up)/LC368_LargestDivisibleSubset/21.12.2025_20.16.04_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "Problem": "LC376 - Wiggle Subsequence,\n\nDescription:\nA wiggle sequence is one where differences alternate between positive and negative. Return the length of the longest wiggle subsequence.\n\nInput:\nnums = [1,7,4,9,2,5]\n\nOutput:\n6",
+    "Pattern": "Dynamic Programming (Bottom-Up)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Greedy/leetcode_greedy_java_25/LC376_Wiggle_Subsequence/24.12.2025_12.52.15_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 64,
+    "Problem": "LC509 - Fibonacci Number,\n\nDescription:\nGiven n, calculate the nth Fibonacci number.\n\nInput:\nn = 4\n\nOutput:\n3",
+    "Pattern": "Dynamic Programming (Bottom-Up)",
+    "Note": "",
+    "Visualization": "TODO",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 65,
+    "Problem": "LC518 - Coin Change II,\n\nDescription:\nGiven an array of coin denominations and an amount, return the number of combinations that make up the amount.\n\nInput:\namount = 5, coins = [1,2,5]\n\nOutput:\n4",
+    "Pattern": "Dynamic Programming (Bottom-Up)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Dynamic Programming(Bottom-Up)/LC518_CoinChangeII/21.12.2025_13.47.37_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "Problem": "LC583 - Delete Operation for Two Strings,\n\nDescription:\nGiven two strings, return the minimum number of deletions required to make them equal.\n\nInput:\nword1 = \"sea\", word2 = \"eat\"\n\nOutput:\n2",
+    "Pattern": "Dynamic Programming (Bottom-Up)",
+    "Note": "",
+    "Visualization": "TODO",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 67,
+    "Problem": "LC1143 - Longest Common Subsequence,\n\nDescription:\nGiven two strings text1 and text2, return the length of their longest common subsequence.\n\nInput:\ntext1 = \"abcde\", text2 = \"ace\"\n\nOutput:\n3",
+    "Pattern": "Dynamic Programming (Bottom-Up)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Dynamic Programming(Bottom-Up)/LC1143_LongestCommonSubsequence/21.12.2025_14.10.50_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 68,
+    "Problem": "LC11 - Container With Most Water,\n\nDescription:\nGiven n non-negative integers representing vertical lines, find two lines that together with the x-axis form a container such that the container contains the most water.\n\nInput:\nheight = [1,8,6,2,5,4,8,3,7]\n\nOutput:\n49",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Two Pointers/leetcode_two_pointers_java_25/LC11_Container_With_Most_Water/24.12.2025_10.45.31_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 69,
+    "Problem": "LC15 - 3Sum,\n\nDescription:\nGiven an integer array nums, return all unique triplets such that nums[i] + nums[j] + nums[k] == 0.\n\nInput:\nnums = [-1,0,1,2,-1,-4]\n\nOutput:\n[[-1,-1,2],[-1,0,1]]",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Two Pointers/leetcode_two_pointers_java_25/LC15_3Sum/19.12.2025_17.19.24_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "Problem": "LC16 - 3Sum Closest,\n\nDescription:\nFind three integers whose sum is closest to the target.\n\nInput:\nnums = [-1,2,1,-4], target = 1\n\nOutput:\n2",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Fast&SlowPointers(Linked List)/leetcode_fast_slow_pointers_java_25/LC16_3Sum_Closest/25.12.2025_20.39.02_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 71,
+    "Problem": "LC18 - 4Sum,\n\nDescription:\nGiven an array nums, return all unique quadruplets that sum to target.\n\nInput:\nnums = [1,0,-1,0,-2,2], target = 0\n\nOutput:\n[[-2,-1,1,2],[-2,0,0,2],[-1,0,0,1]]",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Fast&SlowPointers(Linked List)/leetcode_fast_slow_pointers_java_25/LC18_4Sum/25.12.2025_20.51.27_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 72,
+    "Problem": "LC19 - Remove Nth Node From End of List,\n\nDescription:\nGiven the head of a linked list, remove the nth node from the end.\n\nInput:\nhead = [1,2,3,4,5], n = 2\n\nOutput:\n[1,2,3,5]",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Fast&SlowPointers(Linked List)/leetcode_fast_slow_pointers_java_25/LC19_Remove_Nth_Node_From_End_of_List/25.12.2025_21.00.45_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 73,
+    "Problem": "LC21 - Merge Two Sorted Lists,\n\nDescription:\nMerge two sorted linked lists and return it as a sorted list.\n\nInput:\nlist1 = [1,2,4], list2 = [1,3,4]\n\nOutput:\n[1,1,2,3,4,4]",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Fast&SlowPointers(Linked List)/leetcode_fast_slow_pointers_java_25/LC21_Merge_Two_Sorted_Lists/25.12.2025_21.09.09_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 74,
+    "Problem": "LC26 - Remove Duplicates from Sorted Array,\n\nDescription:\nRemove duplicates in-place such that each element appears only once.\n\nInput:\nnums = [1,1,2]\n\nOutput:\n2",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Two Pointers/leetcode_two_pointers_java_25/LC26_Remove_Duplicates_from_Sorted_Array/24.12.2025_10.49.53_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 75,
+    "Problem": "LC27 - Remove Element,\n\nDescription:\nRemove all instances of val in-place and return the new length.\n\nInput:\nnums = [3,2,2,3], val = 3\n\nOutput:\n2",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Two Pointers/leetcode_two_pointers_java_25/LC27_Remove_Element/24.12.2025_10.52.19_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 76,
+    "Problem": "LC61 - Rotate List,\n\nDescription:\nRotate the linked list to the right by k places.\n\nInput:\nhead = [1,2,3,4,5], k = 2\n\nOutput:\n[4,5,1,2,3]",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Fast&SlowPointers(Linked List)/leetcode_fast_slow_pointers_java_25/LC61_Rotate_List/25.12.2025_21.27.05_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 77,
+    "Problem": "LC82 - Remove Duplicates from Sorted List II,\n\nDescription:\nDelete all nodes that have duplicate numbers, leaving only distinct numbers.\n\nInput:\nhead = [1,2,3,3,4,4,5]\n\nOutput:\n[1,2,5]",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Fast&SlowPointers(Linked List)/leetcode_fast_slow_pointers_java_25/LC82_Remove_Duplicates_from_Sorted_List_II/25.12.2025_21.33.02_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "Problem": "LC83 - Remove Duplicates from Sorted List,\n\nDescription:\nDelete duplicates so each element appears once.\n\nInput:\nhead = [1,1,2,3,3]\n\nOutput:\n[1,2,3]",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Fast&SlowPointers(Linked List)/leetcode_fast_slow_pointers_java_25/LC83_Remove_Duplicates_from_Sorted_List/25.12.2025_21.37.46_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 79,
+    "Problem": "LC141 - Linked List Cycle,\n\nDescription:\nDetermine if the linked list has a cycle.\n\nInput:\nhead = [3,2,0,-4], pos = 1\n\nOutput:\ntrue",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC1_Two_Sum/17.12.2025_11.51.44_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 80,
+    "Problem": "LC142 - Linked List Cycle II,\n\nDescription:\nReturn the node where the cycle begins.\n\nInput:\nhead = [3,2,0,-4], pos = 1\n\nOutput:\nNode with value 2",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC1_Two_Sum/17.12.2025_11.51.44_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "Problem": "LC143 - Reorder List,\n\nDescription:\nReorder list to L0 → Ln → L1 → Ln-1 …\n\nInput:\nhead = [1,2,3,4]\n\nOutput:\n[1,4,2,3]",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC1_Two_Sum/17.12.2025_11.51.44_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 82,
+    "Problem": "LC160 - Intersection of Two Linked Lists,\n\nDescription:\nReturn the node where two linked lists intersect.\n\nInput:\nlistA = [4,1,8,4,5], listB = [5,6,1,8,4,5]\n\nOutput:\nNode with value 8",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC1_Two_Sum/17.12.2025_11.51.44_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 83,
+    "Problem": "LC167 - Two Sum II - Input Array Is Sorted,\n\nDescription:\nFind two numbers such that they add up to target.\n\nInput:\nnumbers = [2,7,11,15], target = 9\n\nOutput:\n[1,2]",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Two Pointers/leetcode_two_pointers_java_25/LC167_Two_Sum_II_Input_Array_Is_Sorted/24.12.2025_11.06.26_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 84,
+    "Problem": "LC202 - Happy Number,\n\nDescription:\nDetermine if a number is a happy number.\n\nInput:\nn = 19\n\nOutput:\ntrue",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "TODO",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 85,
+    "Problem": "LC234 - Palindrome Linked List,\n\nDescription:\nDetermine if a linked list is a palindrome.\n\nInput:\nhead = [1,2,2,1]\n\nOutput:\ntrue",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Fast&SlowPointers(Linked List)/leetcode_fast_slow_pointers_java_25/LC234_Palindrome_Linked_List/25.12.2025_22.14.46_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 86,
+    "Problem": "LC283 - Move Zeroes,\n\nDescription:\nMove all zeros to the end while maintaining relative order.\n\nInput:\nnums = [0,1,0,3,12]\n\nOutput:\n[1,3,12,0,0]",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Two Pointers/leetcode_two_pointers_java_25/LC283_Move_Zeroes/24.12.2025_11.16.04_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 87,
+    "Problem": "LC287 - Find the Duplicate Number,\n\nDescription:\nReturn the duplicate number without modifying the array.\n\nInput:\nnums = [1,3,4,2,2]\n\nOutput:\n2",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Fast&SlowPointers(Linked List)/leetcode_fast_slow_pointers_java_25/LC287_Find_the_Duplicate_Number/25.12.2025_22.07.26_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 88,
+    "Problem": "LC344 - Reverse String,\n\nDescription:\nReverse the input array of characters in-place.\n\nInput:\ns = [\"h\",\"e\",\"l\",\"l\",\"o\"]\n\nOutput:\n[\"o\",\"l\",\"l\",\"e\",\"h\"]",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Two Pointers/leetcode_two_pointers_java_25/LC344_Reverse_String/24.12.2025_11.17.55_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 89,
+    "Problem": "LC392 - Is Subsequence,\n\nDescription:\nCheck if s is a subsequence of t.\n\nInput:\ns = \"abc\", t = \"ahbgdc\"\n\nOutput:\ntrue",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Greedy/leetcode_greedy_java_25/LC392_Is_Subsequence/24.12.2025_12.54.19_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 90,
+    "Problem": "LC457 - Circular Array Loop,\n\nDescription:\nDetermine if a circular loop exists following direction rules.\n\nInput:\nnums = [2,-1,1,2,2]\n\nOutput:\ntrue",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Fast&SlowPointers(Linked List)/leetcode_fast_slow_pointers_java_25/LC457_Circular_Array_Loop/25.12.2025_21.50.33_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 91,
+    "Problem": "LC876 - Middle of the Linked List,\n\nDescription:\nReturn the middle node of the linked list.\n\nInput:\nhead = [1,2,3,4,5]\n\nOutput:\n[3,4,5]",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Fast&SlowPointers(Linked List)/leetcode_fast_slow_pointers_java_25/LC876_Middle_of_the_Linked_List/25.12.2025_21.45.30_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 92,
+    "Problem": "LC977 - Squares of a Sorted Array,\n\nDescription:\nReturn an array of squares sorted in non-decreasing order.\n\nInput:\nnums = [-4,-1,0,3,10]\n\nOutput:\n[0,1,9,16,100]",
+    "Pattern": "Fast & Slow Pointers (Linked List)",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Two Pointers/leetcode_two_pointers_java_25/LC977_Squares_of_a_Sorted_Array/24.12.2025_11.45.19_REC.mp4",
+    "Difficulty": "Easy"
+  },
+  {
+    "id": 93,
+    "Problem": "LC127 - Word Ladder,\n\nDescription:\nGiven two words beginWord and endWord, and a dictionary wordList, return the length of the shortest transformation sequence from beginWord to endWord. Each transformed word must exist in wordList and differ by exactly one letter.\n\nInput:\nbeginWord = \"hit\", endWord = \"cog\", wordList = [\"hot\",\"dot\",\"dog\",\"lot\",\"log\",\"cog\"]\n\nOutput:\n5",
+    "Pattern": "Graphs",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC1_Two_Sum/17.12.2025_11.51.44_REC.mp4",
+    "Difficulty": "Hard"
+  },
+  {
+    "id": 94,
+    "Problem": "LC133 - Clone Graph,\n\nDescription:\nGiven a reference to a node in a connected undirected graph, return a deep copy of the graph.\n\nInput:\nA graph with node values and adjacency lists\n\nOutput:\nA cloned graph with identical structure",
+    "Pattern": "Graphs",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC1_Two_Sum/17.12.2025_11.51.44_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 95,
+    "Problem": "LC200 - Number of Islands,\n\nDescription:\nGiven an m x n grid of '1's (land) and '0's (water), return the number of islands. An island is surrounded by water and formed by connecting adjacent lands horizontally or vertically.\n\nInput:\ngrid = [[1,1,0,0,0],[1,1,0,0,0],[0,0,1,0,0],[0,0,0,1,1]]\n\nOutput:\n3",
+    "Pattern": "Graphs",
+    "Note": "",
+    "Visualization": "",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 96,
+    "Problem": "LC207 - Course Schedule,\n\nDescription:\nThere are numCourses courses labeled from 0 to numCourses-1. Given prerequisites, determine if you can finish all courses.\n\nInput:\nnumCourses = 2, prerequisites = [[1,0]]\n\nOutput:\ntrue",
+    "Pattern": "Graphs",
+    "Note": "",
+    "Visualization": "",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 97,
+    "Problem": "LC210 - Course Schedule II,\n\nDescription:\nReturn the ordering of courses you should take to finish all courses. If impossible, return an empty array.\n\nInput:\nnumCourses = 4, prerequisites = [[1,0],[2,0],[3,1],[3,2]]\n\nOutput:\n[0,1,2,3]",
+    "Pattern": "Graphs",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Fast&SlowPointers(Linked List)/leetcode_fast_slow_pointers_java_25/LC21_Merge_Two_Sorted_Lists/25.12.2025_21.09.09_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 98,
+    "Problem": "LC261 - Graph Valid Tree,\n\nDescription:\nGiven n nodes labeled 0 to n-1 and a list of edges, determine if the edges form a valid tree.\n\nInput:\nn = 5, edges = [[0,1],[0,2],[0,3],[1,4]]\n\nOutput:\ntrue",
+    "Pattern": "Graphs",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Two Pointers/leetcode_two_pointers_java_25/LC26_Remove_Duplicates_from_Sorted_Array/24.12.2025_10.49.53_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 99,
+    "Problem": "LC310 - Minimum Height Trees,\n\nDescription:\nGiven an undirected graph, return all the roots of Minimum Height Trees.\n\nInput:\nn = 4, edges = [[1,0],[1,2],[1,3]]\n\nOutput:\n[1]",
+    "Pattern": "Graphs",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Sliding Window/leetcode_sliding_window_java_25/LC3_Longest_Substring_Without_Repeating_Characters/29.12.2025_09.52.40_REC.mp4",
+    "Difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "Problem": "LC323 - Number of Connected Components in an Undirected Graph,\n\nDescription:\nGiven n nodes and edges, return the number of connected components.\n\nInput:\nn = 5, edges = [[0,1],[1,2],[3,4]]\n\nOutput:\n2",
+    "Pattern": "Graphs",
+    "Note": "",
+    "Visualization": "LeetCodePatternsVisualCombo/Sliding Window/leetcode_sliding_window_java_25/LC3_Longest_Substring_Without_Repeating_Characters/29.12.2025_09.52.40_REC.mp4",
+    "Difficulty": "Medium"
   }
 ]
