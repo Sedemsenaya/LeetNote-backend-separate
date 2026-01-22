@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6c6fec7-c43e-4f3e-9a81-3fea301c629f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/LeetCodePatternsVisualCombo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/labuladong/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/LeetCodePatternsVisualCombo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/Backtracking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC131_Palindrome_partitioning/lc131_palindrome_partitioning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC131_Palindrome_partitioning/lc131_palindrome_partitioning/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC131_Palindrome_partitioning/lc131_palindrome_partitioning/lc131.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC131_Palindrome_partitioning/lc131_palindrome_partitioning/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC17_Letter_Combinations/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC17_Letter_Combinations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC17_Letter_Combinations/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC17_Letter_Combinations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC17_Letter_Combinations/20.12.2025_11.52.18_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC17_Letter_Combinations/LC17_Letter_Combinations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC17_Letter_Combinations/Main.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC17_Letter_Combinations/lc17_letter_combination.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC17_Letter_Combinations/lc17_letter_combinations/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC17_Letter_Combinations/lc17_letter_combinations/LC17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC17_Letter_Combinations/lc17_letter_combinations/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC17_Letter_Combinations/out/production/LC17_Letter_Combinations/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC216_Combination_sum_III/LC216_Combination_sum_III/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC216_Combination_sum_III/LC216_Combination_sum_III/LC216.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC216_Combination_sum_III/LC216_Combination_sum_III/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC216_Combination_sum_III/lc216_combination_sum_III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC46_Permutations/LC46Permutation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC46_Permutations/LC46Permutation/lc46Permutation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC46_Permutations/LC46Permutation/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC46_Permutations/lc46Permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC47_Permutations_II/LC47_permutation_II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC47_Permutations_II/lc47_Permutation_II/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC47_Permutations_II/lc47_Permutation_II/LC47.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC47_Permutations_II/lc47_Permutation_II/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC51_N_Queens/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC51_N_Queens/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC51_N_Queens/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC51_N_Queens/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC51_N_Queens/LC51_N_Queens.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC51_N_Queens/lc51_N-Queens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC51_N_Queens/lc51_N-Queens/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC51_N_Queens/lc51_N-Queens/lc51.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC51_N_Queens/lc51_N-Queens/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC77_Combinations/lc77_combinations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC77_Combinations/lc77_combinations/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC77_Combinations/lc77_combinations/lc77.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC77_Combinations/lc77_combinations/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC784_Letter_case_permutations/lc784_letter_case_permutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC784_Letter_case_permutations/lc784_letter_case_permutations/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC784_Letter_case_permutations/lc784_letter_case_permutations/lc784.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC784_Letter_case_permutations/lc784_letter_case_permutations/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC79_word_Search/lc79_word_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC79_word_Search/lc79_word_search/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC79_word_Search/lc79_word_search/18.12.2025_22.48.28_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC79_word_Search/lc79_word_search/lc79.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC79_word_Search/lc79_word_search/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC90_Subsets_II/LC90_Subsets_II/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC90_Subsets_II/LC90_Subsets_II/lc90.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC90_Subsets_II/LC90_Subsets_II/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC90_Subsets_II/lc90_subsets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC93_Restore_Ip_addresses/lc93_Restore_Ip_Adresses/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC93_Restore_Ip_addresses/lc93_Restore_Ip_Adresses/lc93.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC93_Restore_Ip_addresses/lc93_Restore_Ip_Adresses/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/LC93_Restore_Ip_addresses/lc93_restore_Ip_addresses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC1087_Brace_Expansion/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC1087_Brace_Expansion/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC131_Palindrome_Partitioning/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC131_Palindrome_Partitioning/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC140_Word_Break_II/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC140_Word_Break_II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC17_Letter_Combinations_of_a_Phone_Number/20.12.2025_11.52.18_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC17_Letter_Combinations_of_a_Phone_Number/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC17_Letter_Combinations_of_a_Phone_Number/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC216_Combination_Sum_III/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC216_Combination_Sum_III/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC22_Generate_Parentheses/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC22_Generate_Parentheses/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC282_Expression_Add_Operators/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC282_Expression_Add_Operators/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC37_Sudoku_Solver/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC37_Sudoku_Solver/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC39_Combination_Sum/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC39_Combination_Sum/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC401_Binary_Watch/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC401_Binary_Watch/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC40_Combination_Sum_II/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC40_Combination_Sum_II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC46_Permutations/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC46_Permutations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC46_Permutations/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC46_Permutations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC46_Permutations/21.12.2025_12.01.09_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC46_Permutations/LC46_Permutations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC46_Permutations/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC46_Permutations/Solution.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC46_Permutations/out/production/LC46_Permutations/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC46_Permutations/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC473_Matchsticks_to_Square/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC473_Matchsticks_to_Square/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC47_Permutations_II/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC47_Permutations_II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC491_Non_decreasing_Subsequences/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC491_Non_decreasing_Subsequences/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC51_N_Queens/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC51_N_Queens/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC51_N_Queens/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC51_N_Queens/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC51_N_Queens/20.12.2025_12.25.46_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC51_N_Queens/LC51_N_Queens.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC51_N_Queens/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC51_N_Queens/Solution.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC51_N_Queens/out/production/LC51_N_Queens/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC51_N_Queens/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC526_Beautiful_Arrangement/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC526_Beautiful_Arrangement/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC52_N_Queens_II/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC52_N_Queens_II/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC52_N_Queens_II/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC52_N_Queens_II/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC52_N_Queens_II/20.12.2025_12.42.01_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC52_N_Queens_II/LC52_N_Queens_II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC52_N_Queens_II/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC52_N_Queens_II/Solution.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC52_N_Queens_II/out/production/LC52_N_Queens_II/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC52_N_Queens_II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC698_Partition_to_K_Equal_Sum_Subsets/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC698_Partition_to_K_Equal_Sum_Subsets/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC77_Combinations/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC77_Combinations/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC784_Letter_Case_Permutation/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC784_Letter_Case_Permutation/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC78_Subsets/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC78_Subsets/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC79_Word_Search/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC79_Word_Search/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC90_Subsets_II/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC90_Subsets_II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC93_Restore_IP_Addresses/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/LC93_Restore_IP_Addresses/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Backtracking/leetcode_backtracking_java_25/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/LC35_search_insert_position/17.12.2025_12.15.17_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/LC35_search_insert_position/LC35_search_insert_position.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/LC35_search_insert_position/lc35_Search_insert_postion/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/LC35_search_insert_position/lc35_Search_insert_postion/LC35_SearchInsertPosition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/LC35_search_insert_position/lc35_Search_insert_postion/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/LC35_search_insert_position/lc35_Serach_insert_position.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/LC704_BinarySeach/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/LC704_BinarySeach/17.12.2025_12.01.40_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/LC704_BinarySeach/LC704_BinarySeach.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/LC704_BinarySeach/LC704_BinarySearch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/LC704_BinarySeach/LC704_binary_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/LC704_BinarySeach/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC1011_Capacity_To_Ship_Packages_Within_D_Days/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC1011_Capacity_To_Ship_Packages_Within_D_Days/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC1011_Capacity_To_Ship_Packages_Within_D_Days/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC1283_Find_the_Smallest_Divisor_Given_a_Threshold/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC1283_Find_the_Smallest_Divisor_Given_a_Threshold/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC1283_Find_the_Smallest_Divisor_Given_a_Threshold/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC1283_Find_the_Smallest_Divisor_Given_a_Threshold/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC1283_Find_the_Smallest_Divisor_Given_a_Threshold/20.12.2025_15.53.51_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC1283_Find_the_Smallest_Divisor_Given_a_Threshold/LC1283_Find_the_Smallest_Divisor_Given_a_Threshold.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC1283_Find_the_Smallest_Divisor_Given_a_Threshold/Main.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC1283_Find_the_Smallest_Divisor_Given_a_Threshold/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC1283_Find_the_Smallest_Divisor_Given_a_Threshold/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC1283_Find_the_Smallest_Divisor_Given_a_Threshold/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC1482_Minimum_Number_of_Days_to_Make_m_Bouquets/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC1482_Minimum_Number_of_Days_to_Make_m_Bouquets/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC1482_Minimum_Number_of_Days_to_Make_m_Bouquets/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC153_Find_Minimum_in_Rotated_Sorted_Array/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC153_Find_Minimum_in_Rotated_Sorted_Array/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC153_Find_Minimum_in_Rotated_Sorted_Array/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC1552_Magnetic_Force_Between_Two_Balls/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC1552_Magnetic_Force_Between_Two_Balls/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC1552_Magnetic_Force_Between_Two_Balls/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC162_Find_Peak_Element/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC162_Find_Peak_Element/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC162_Find_Peak_Element/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC278_First_Bad_Version/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC278_First_Bad_Version/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC278_First_Bad_Version/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC300_Longest_Increasing_Subsequence/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC300_Longest_Increasing_Subsequence/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC300_Longest_Increasing_Subsequence/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC33_Search_in_Rotated_Sorted_Array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC33_Search_in_Rotated_Sorted_Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC33_Search_in_Rotated_Sorted_Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC33_Search_in_Rotated_Sorted_Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC33_Search_in_Rotated_Sorted_Array/20.12.2025_16.11.08_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC33_Search_in_Rotated_Sorted_Array/LC33_Search_in_Rotated_Sorted_Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC33_Search_in_Rotated_Sorted_Array/Main.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC33_Search_in_Rotated_Sorted_Array/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC33_Search_in_Rotated_Sorted_Array/out/production/LC33_Search_in_Rotated_Sorted_Array/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC33_Search_in_Rotated_Sorted_Array/out/production/LC33_Search_in_Rotated_Sorted_Array/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC33_Search_in_Rotated_Sorted_Array/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC33_Search_in_Rotated_Sorted_Array/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC354_Russian_Doll_Envelopes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC354_Russian_Doll_Envelopes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC354_Russian_Doll_Envelopes/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC35_Search_Insert_Position/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC35_Search_Insert_Position/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC35_Search_Insert_Position/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC367_Valid_Perfect_Square/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC367_Valid_Perfect_Square/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC367_Valid_Perfect_Square/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC367_Valid_Perfect_Square/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC367_Valid_Perfect_Square/20.12.2025_16.06.52_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC367_Valid_Perfect_Square/LC367_Valid_Perfect_Square.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC367_Valid_Perfect_Square/Main.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC367_Valid_Perfect_Square/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC367_Valid_Perfect_Square/out/production/LC367_Valid_Perfect_Square/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC367_Valid_Perfect_Square/out/production/LC367_Valid_Perfect_Square/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC367_Valid_Perfect_Square/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC367_Valid_Perfect_Square/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC374_Guess_Number_Higher_or_Lower/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC374_Guess_Number_Higher_or_Lower/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC374_Guess_Number_Higher_or_Lower/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC410_Split_Array_Largest_Sum/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC410_Split_Array_Largest_Sum/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC410_Split_Array_Largest_Sum/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC4_Median_of_Two_Sorted_Arrays/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC4_Median_of_Two_Sorted_Arrays/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC4_Median_of_Two_Sorted_Arrays/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC540_Single_Element_in_a_Sorted_Array/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC540_Single_Element_in_a_Sorted_Array/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC540_Single_Element_in_a_Sorted_Array/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC69_Sqrt_x/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC69_Sqrt_x/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC69_Sqrt_x/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC704_Binary_Search/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC704_Binary_Search/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC704_Binary_Search/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC719_Find_K_th_Smallest_Pair_Distance/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC719_Find_K_th_Smallest_Pair_Distance/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC719_Find_K_th_Smallest_Pair_Distance/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC744_Find_Smallest_Letter_Greater_Than_Target/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC744_Find_Smallest_Letter_Greater_Than_Target/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC744_Find_Smallest_Letter_Greater_Than_Target/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC74_Search_a_2D_Matrix/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC74_Search_a_2D_Matrix/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC74_Search_a_2D_Matrix/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC74_Search_a_2D_Matrix/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC74_Search_a_2D_Matrix/20.12.2025_15.17.16_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC74_Search_a_2D_Matrix/LC74_Search_a_2D_Matrix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC74_Search_a_2D_Matrix/Main.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC74_Search_a_2D_Matrix/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC74_Search_a_2D_Matrix/out/production/LC74_Search_a_2D_Matrix/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC74_Search_a_2D_Matrix/out/production/LC74_Search_a_2D_Matrix/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC74_Search_a_2D_Matrix/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC74_Search_a_2D_Matrix/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC81_Search_in_Rotated_Sorted_Array_II/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC81_Search_in_Rotated_Sorted_Array_II/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC81_Search_in_Rotated_Sorted_Array_II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC852_Peak_Index_in_a_Mountain_Array/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC852_Peak_Index_in_a_Mountain_Array/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC852_Peak_Index_in_a_Mountain_Array/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC875_Koko_Eating_Bananas/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC875_Koko_Eating_Bananas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC875_Koko_Eating_Bananas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC875_Koko_Eating_Bananas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC875_Koko_Eating_Bananas/20.12.2025_15.40.37_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC875_Koko_Eating_Bananas/LC875_Koko_Eating_Bananas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC875_Koko_Eating_Bananas/Main.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC875_Koko_Eating_Bananas/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC875_Koko_Eating_Bananas/out/production/LC875_Koko_Eating_Bananas/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC875_Koko_Eating_Bananas/out/production/LC875_Koko_Eating_Bananas/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC875_Koko_Eating_Bananas/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/LC875_Koko_Eating_Bananas/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Binary Search/leetcode_binary_search_java_25_with_main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC1143_LongestCommonSubsequence/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC1143_LongestCommonSubsequence/LC1143.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC1143_LongestCommonSubsequence/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC120_Triangle/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC120_Triangle/lc120.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC120_Triangle/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC139_WordBreak/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC139_WordBreak/LC139.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC139_WordBreak/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC152_Max_ProductSubarray/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC152_Max_ProductSubarray/LC152.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC152_Max_ProductSubarray/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC174_DungeonGame/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC174_DungeonGame/lc174.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC174_DungeonGame/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC198-HouseRobber/17.12.2025_14.35.17_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC198-HouseRobber/LC198-HouseRobber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC198-HouseRobber/lc198House-Robber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC198-HouseRobber/lc198HouseRobber/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC198-HouseRobber/lc198HouseRobber/lc198HouseRobber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC198-HouseRobber/lc198HouseRobber/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC213_HouseRobber_II/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC213_HouseRobber_II/lc213.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC213_HouseRobber_II/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC221_MaximalSquare/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC221_MaximalSquare/LC221.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC221_MaximalSquare/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC279_PerfectSquares/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC279_PerfectSquares/LC279.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC279_PerfectSquares/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC368_LargestDivisibleSubset/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC368_LargestDivisibleSubset/LC368.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC368_LargestDivisibleSubset/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC376_WiggleSubsequence/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC376_WiggleSubsequence/lc376.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC376_WiggleSubsequence/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC44_WildcardMatching/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC44_WildcardMatching/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC44_WildcardMatching/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC44_WildcardMatching/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC44_WildcardMatching/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC44_WildcardMatching/19.12.2025_16.19.46_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC44_WildcardMatching/LC44.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC44_WildcardMatching/LC44_WildcardMatching.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC44_WildcardMatching/Main.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC44_WildcardMatching/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC509_Fibonnacci/lc509Fibonacci/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC509_Fibonnacci/lc509Fibonacci/LC509.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC509_Fibonnacci/lc509Fibonacci/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC518_CoinChangeII/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC518_CoinChangeII/LC518.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC518_CoinChangeII/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC53_MaxSubarray/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC53_MaxSubarray/lc53.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC53_MaxSubarray/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC583_DeleteOperationTwoStrings/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC583_DeleteOperationTwoStrings/lc583.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC583_DeleteOperationTwoStrings/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC5_LCS_LongestPalindromicSubstring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC5_LCS_LongestPalindromicSubstring/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC5_LCS_LongestPalindromicSubstring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC5_LCS_LongestPalindromicSubstring/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC5_LCS_LongestPalindromicSubstring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC5_LCS_LongestPalindromicSubstring/19.12.2025_10.27.37_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC5_LCS_LongestPalindromicSubstring/LC5_LCS_LongestPalindromicSubstring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC5_LCS_LongestPalindromicSubstring/LCS5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC5_LCS_LongestPalindromicSubstring/Main.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC5_LCS_LongestPalindromicSubstring/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC62_Unique_paths/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC62_Unique_paths/LC62.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC62_Unique_paths/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC64_MinimumPathSum/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC64_MinimumPathSum/lc64.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC64_MinimumPathSum/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC70_ClimbStairs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC70_ClimbStairs/17.12.2025_14.28.13_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC70_ClimbStairs/LC70_ClimbStairs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC70_ClimbStairs/LC70_Climb_stairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC70_ClimbStairs/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC718_MaxLengthRepeatingSubarray/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC718_MaxLengthRepeatingSubarray/lc718.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC718_MaxLengthRepeatingSubarray/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC72_EditDistance/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC72_EditDistance/LC72.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC72_EditDistance/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC740_DeleteAndEarn/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC740_DeleteAndEarn/lc740.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC740_DeleteAndEarn/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC873_LengthLongestFibSubseq/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC873_LengthLongestFibSubseq/lc873.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC873_LengthLongestFibSubseq/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC887_SuperEggDrop/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC887_SuperEggDrop/lc887.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC887_SuperEggDrop/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC91_decode_Ways/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC91_decode_Ways/LC91.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dynamic Programming(Bottom-Up)/LC91_decode_Ways/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LC141Linked_listcycle/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LC141Linked_listcycle/17.12.2025_13.32.21_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LC141Linked_listcycle/LC141Linked_listcycle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LC141Linked_listcycle/Main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LC141Linked_listcycle/lc141_linked_list_cycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LC141Linked_listcycle/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LC876-Middle_of_linked_list/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LC876-Middle_of_linked_list/17.12.2025_13.40.57_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LC876-Middle_of_linked_list/LC876-Middle_of_linked_list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LC876-Middle_of_linked_list/LC876_MiddleOfLinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LC876-Middle_of_linked_list/LC876_Middle_of_Linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LC876-Middle_of_linked_list/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC11_Container_With_Most_Water/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC11_Container_With_Most_Water/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC141_Linked_List_Cycle/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC141_Linked_List_Cycle/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC142_Linked_List_Cycle_II/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC142_Linked_List_Cycle_II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC143_Reorder_List/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC143_Reorder_List/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC15_3Sum/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC15_3Sum/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC160_Intersection_of_Two_Linked_Lists/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC160_Intersection_of_Two_Linked_Lists/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC167_Two_Sum_II_Input_Array_Is_Sorted/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC167_Two_Sum_II_Input_Array_Is_Sorted/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC16_3Sum_Closest/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC16_3Sum_Closest/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC18_4Sum/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC18_4Sum/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC19_Remove_Nth_Node_From_End_of_List/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC19_Remove_Nth_Node_From_End_of_List/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC202_Happy_Number/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC202_Happy_Number/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC21_Merge_Two_Sorted_Lists/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC21_Merge_Two_Sorted_Lists/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC21_Merge_Two_Sorted_Lists/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC21_Merge_Two_Sorted_Lists/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC21_Merge_Two_Sorted_Lists/LC21_Merge_Two_Sorted_Lists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC21_Merge_Two_Sorted_Lists/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC21_Merge_Two_Sorted_Lists/out/production/LC21_Merge_Two_Sorted_Lists/Solution$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC21_Merge_Two_Sorted_Lists/out/production/LC21_Merge_Two_Sorted_Lists/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC21_Merge_Two_Sorted_Lists/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC234_Palindrome_Linked_List/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC234_Palindrome_Linked_List/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC26_Remove_Duplicates_from_Sorted_Array/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC26_Remove_Duplicates_from_Sorted_Array/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC27_Remove_Element/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC27_Remove_Element/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC283_Move_Zeroes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC283_Move_Zeroes/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC287_Find_the_Duplicate_Number/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC287_Find_the_Duplicate_Number/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC344_Reverse_String/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC344_Reverse_String/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC392_Is_Subsequence/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC392_Is_Subsequence/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC457_Circular_Array_Loop/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC457_Circular_Array_Loop/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC82_Remove_Duplicates_from_Sorted_List_II/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC82_Remove_Duplicates_from_Sorted_List_II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC83_Remove_Duplicates_from_Sorted_List/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC83_Remove_Duplicates_from_Sorted_List/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC83_Remove_Duplicates_from_Sorted_List/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC83_Remove_Duplicates_from_Sorted_List/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC83_Remove_Duplicates_from_Sorted_List/LC83_Remove_Duplicates_from_Sorted_List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC83_Remove_Duplicates_from_Sorted_List/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC83_Remove_Duplicates_from_Sorted_List/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC876_Middle_of_the_Linked_List/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC876_Middle_of_the_Linked_List/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC977_Squares_of_a_Sorted_Array/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LC977_Squares_of_a_Sorted_Array/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/LC200Number_of_Islands/LC200Number_of_Islands.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/LC200Number_of_Islands/LC200_Number_of_Islands/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/LC200Number_of_Islands/LC200_Number_of_Islands/lc200Number_of_Islands.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/LC200Number_of_Islands/LC200_Number_of_Islands/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/LC200Number_of_Islands/lc200Number_of_Islands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/LC994_RottingOrange/LC994RottingOrange/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/LC994_RottingOrange/LC994RottingOrange/lc994RottingOrange.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/LC994_RottingOrange/LC994RottingOrange/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/LC994_RottingOrange/LC994_RottingOrange.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/LC994_RottingOrange/lc994RottingOrange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC1091_Shortest_Path_in_Binary_Matrix/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC1091_Shortest_Path_in_Binary_Matrix/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC127_Word_Ladder/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC127_Word_Ladder/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC133_Clone_Graph/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC133_Clone_Graph/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC1584_Min_Cost_to_Connect_All_Points/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC1584_Min_Cost_to_Connect_All_Points/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC1631_Path_With_Minimum_Effort/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC1631_Path_With_Minimum_Effort/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC200_Number_of_Islands/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC200_Number_of_Islands/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC207_Course_Schedule/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC207_Course_Schedule/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC210_Course_Schedule_II/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC210_Course_Schedule_II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC261_Graph_Valid_Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC261_Graph_Valid_Tree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC310_Minimum_Height_Trees/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC310_Minimum_Height_Trees/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC323_Number_of_Connected_Components_in_an_Undirected_Graph/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC323_Number_of_Connected_Components_in_an_Undirected_Graph/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC332_Reconstruct_Itinerary/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC332_Reconstruct_Itinerary/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC399_Evaluate_Division/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC399_Evaluate_Division/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC417_Pacific_Atlantic_Water_Flow/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC417_Pacific_Atlantic_Water_Flow/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC547_Number_of_Provinces/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC547_Number_of_Provinces/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC684_Redundant_Connection/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC684_Redundant_Connection/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC695_Max_Area_of_Island/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC695_Max_Area_of_Island/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC721_Accounts_Merge/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC721_Accounts_Merge/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC743_Network_Delay_Time/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC743_Network_Delay_Time/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC752_Open_the_Lock/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC752_Open_the_Lock/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC785_Is_Graph_Bipartite/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC785_Is_Graph_Bipartite/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC787_Cheapest_Flights_Within_K_Stops/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC787_Cheapest_Flights_Within_K_Stops/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC797_All_Paths_From_Source_to_Target/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC797_All_Paths_From_Source_to_Target/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC980_Unique_Paths_III/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC980_Unique_Paths_III/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC994_Rotting_Oranges/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/LC994_Rotting_Oranges/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Graphs/leetcode_graphs_java_25/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/LC55_jumpGame/17.12.2025_14.40.45_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/LC55_jumpGame/LC55_jumpGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/LC55_jumpGame/lc55JumpGame/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/LC55_jumpGame/lc55JumpGame/lc55JumpGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/LC55_jumpGame/lc55JumpGame/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/LC55_jumpGame/lc55_JumpGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/lc45JumpGame_II/17.12.2025_14.48.22_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/lc45JumpGame_II/LC45JumpGame_II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/lc45JumpGame_II/LC45JumpGame_II/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/lc45JumpGame_II/LC45JumpGame_II/lc45JumpGame_II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/lc45JumpGame_II/LC45JumpGame_II/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/lc45JumpGame_II/lc45JumpGame_II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC1005_Maximize_Sum_Of_Array_After_K_Negations/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC1005_Maximize_Sum_Of_Array_After_K_Negations/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC1029_Two_City_Scheduling/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC1029_Two_City_Scheduling/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC1094_Car_Pooling/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC1094_Car_Pooling/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC121_Best_Time_to_Buy_and_Sell_Stock/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC121_Best_Time_to_Buy_and_Sell_Stock/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC122_Best_Time_to_Buy_and_Sell_Stock_II/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC122_Best_Time_to_Buy_and_Sell_Stock_II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC134_Gas_Station/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC134_Gas_Station/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC135_Candy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC135_Candy/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC1710_Maximum_Units_on_a_Truck/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC1710_Maximum_Units_on_a_Truck/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC179_Largest_Number/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC179_Largest_Number/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC1903_Largest_Odd_Number_in_String/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC1903_Largest_Odd_Number_in_String/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC376_Wiggle_Subsequence/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC376_Wiggle_Subsequence/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC392_Is_Subsequence/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC392_Is_Subsequence/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC406_Queue_Reconstruction_by_Height/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC406_Queue_Reconstruction_by_Height/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC435_Non_overlapping_Intervals/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC435_Non_overlapping_Intervals/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC452_Minimum_Number_of_Arrows_to_Burst_Balloons/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC452_Minimum_Number_of_Arrows_to_Burst_Balloons/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC45_Jump_Game_II/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC45_Jump_Game_II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC55_Jump_Game/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC55_Jump_Game/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC621_Task_Scheduler/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC621_Task_Scheduler/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC646_Maximum_Length_of_Pair_Chain/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC646_Maximum_Length_of_Pair_Chain/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC649_Dota2_Senate/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC649_Dota2_Senate/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC738_Monotone_Increasing_Digits/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC738_Monotone_Increasing_Digits/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC763_Partition_Labels/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC763_Partition_Labels/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC860_Lemonade_Change/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC860_Lemonade_Change/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC948_Bag_of_Tokens/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/LC948_Bag_of_Tokens/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Greedy/leetcode_greedy_java_25/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/Hash Map or Frequency.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/LC387_FirstUniqueChar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/LC387_first_unique_char/17.12.2025_11.41.51_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/LC387_first_unique_char/lc387_first_unique_char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/lc1_two_sum/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/lc1_two_sum/17.12.2025_11.51.44_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/lc1_two_sum/lc1_twoSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/lc1_two_sum/lc1_two_sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/lc1_two_sum/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/lc1_two_sum/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC1002_Find_Common_Characters/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC1002_Find_Common_Characters/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC1207_Unique_Number_of_Occurrences/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC1207_Unique_Number_of_Occurrences/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC128_Longest_Consecutive_Sequence/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC128_Longest_Consecutive_Sequence/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC1331_Rank_Transform_of_an_Array/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC1331_Rank_Transform_of_an_Array/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC1497_Check_If_Array_Pairs_Are_Divisible_by_k/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC1497_Check_If_Array_Pairs_Are_Divisible_by_k/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC169_Majority_Element/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC169_Majority_Element/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC1_Two_Sum/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC1_Two_Sum/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC205_Isomorphic_Strings/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC205_Isomorphic_Strings/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC242_Valid_Anagram/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC242_Valid_Anagram/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC242_Valid_Anagram/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC242_Valid_Anagram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC242_Valid_Anagram/20.12.2025_16.30.58_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC242_Valid_Anagram/LC242_Valid_Anagram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC242_Valid_Anagram/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC242_Valid_Anagram/Solution.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC242_Valid_Anagram/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC290_Word_Pattern/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC290_Word_Pattern/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC290_Word_Pattern/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC290_Word_Pattern/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC290_Word_Pattern/20.12.2025_16.19.44_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC290_Word_Pattern/LC290_Word_Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC290_Word_Pattern/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC290_Word_Pattern/Solution.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC290_Word_Pattern/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC299_Bulls_and_Cows/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC299_Bulls_and_Cows/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC347_Top_K_Frequent_Elements/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC347_Top_K_Frequent_Elements/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC347_Top_K_Frequent_Elements/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC347_Top_K_Frequent_Elements/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC347_Top_K_Frequent_Elements/20.12.2025_16.54.56_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC347_Top_K_Frequent_Elements/LC347_Top_K_Frequent_Elements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC347_Top_K_Frequent_Elements/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC347_Top_K_Frequent_Elements/Solution.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC347_Top_K_Frequent_Elements/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC350_Intersection_of_Two_Arrays_II/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC350_Intersection_of_Two_Arrays_II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC387_First_Unique_Character_in_a_String/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC387_First_Unique_Character_in_a_String/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC3_Longest_Substring_Without_Repeating_Characters/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC3_Longest_Substring_Without_Repeating_Characters/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC409_Longest_Palindrome/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC409_Longest_Palindrome/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC409_Longest_Palindrome/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC409_Longest_Palindrome/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC409_Longest_Palindrome/LC409_Longest_Palindrome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC409_Longest_Palindrome/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC409_Longest_Palindrome/Solution.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC409_Longest_Palindrome/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC438_Find_All_Anagrams_in_a_String/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC438_Find_All_Anagrams_in_a_String/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC451_Sort_Characters_By_Frequency/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC451_Sort_Characters_By_Frequency/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC454_4Sum_II/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC454_4Sum_II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC49_Group_Anagrams/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC49_Group_Anagrams/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC49_Group_Anagrams/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC49_Group_Anagrams/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC49_Group_Anagrams/20.12.2025_16.47.09_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC49_Group_Anagrams/LC49_Group_Anagrams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC49_Group_Anagrams/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC49_Group_Anagrams/Solution.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC49_Group_Anagrams/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC525_Contiguous_Array/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC525_Contiguous_Array/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC532_K_diff_Pairs_in_an_Array/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC532_K_diff_Pairs_in_an_Array/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC560_Subarray_Sum_Equals_K/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC560_Subarray_Sum_Equals_K/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC692_Top_K_Frequent_Words/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC692_Top_K_Frequent_Words/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC76_Minimum_Window_Substring/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/LC76_Minimum_Window_Substring/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/leetcode_hashmap_frequency_java_25/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hash Map or Frequency/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC1052_Grumpy_bookstore_owner/18.12.2025_21.35.41_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC1052_Grumpy_bookstore_owner/lc1052_grumpy_bookstore/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC1052_Grumpy_bookstore_owner/lc1052_grumpy_bookstore/lc1052.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC1052_Grumpy_bookstore_owner/lc1052_grumpy_bookstore/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC1052_Grumpy_bookstore_owner/lc1052_grumpy_bookstore_owner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC209min_subarray_len/18.12.2025_21.16.03_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC209min_subarray_len/lc209_min_subarray_len.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC209min_subarray_len/lc209_min_subarray_len/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC209min_subarray_len/lc209_min_subarray_len/lc209.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC209min_subarray_len/lc209_min_subarray_len/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC3_Longest_substring/LC3_Longest_substring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC3_Longest_substring/LC3_longest_substring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC3_Longest_substring/LC3_longest_substring/18.12.2025_12.31.43_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC3_Longest_substring/LC3_longest_substring/lc3LongestSubstring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC3_Longest_substring/LC3_longest_substring/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC3_Longest_substring/lc3_longest_substring_no_repeat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC424_Longest_Repeating_Character_Replacement/18.12.2025_13.41.01_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC424_Longest_Repeating_Character_Replacement/LC424_LongestRepeatingCharReplacement/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC424_Longest_Repeating_Character_Replacement/LC424_LongestRepeatingCharReplacement/lc424.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC424_Longest_Repeating_Character_Replacement/LC424_LongestRepeatingCharReplacement/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC424_Longest_Repeating_Character_Replacement/LC424_Longest_Repeating_Character_Replacement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC424_Longest_Repeating_Character_Replacement/lc424_longest_replacement_character_replacement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC438_Find_All_anagrams/LC438_Find_All_anagrams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC438_Find_All_anagrams/lc438_find_all_anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC438_Find_All_anagrams/lc438_find_all_anagrams/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC438_Find_All_anagrams/lc438_find_all_anagrams/18.12.2025_13.19.56_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC438_Find_All_anagrams/lc438_find_all_anagrams/lc438_find_all_anagrams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC438_Find_All_anagrams/lc438_find_all_anagrams/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC76_min_window_substring/18.12.2025_14.06.11_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC76_min_window_substring/LC76_min_window_substring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC76_min_window_substring/LC76_min_window_substring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC76_min_window_substring/LC76_min_window_substring/lc76.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC76_min_window_substring/LC76_min_window_substring/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/LC76_min_window_substring/lc76_min_window_substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc1004_MaxConsecutiveOnesIII/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc1004_MaxConsecutiveOnesIII/lc1004_MaxConsecutiveOnesIII.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc1004_MaxConsecutiveOnesIII/lc1004_max_consecutive_onesIII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc1004_MaxConsecutiveOnesIII/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc567_permutation_in_string/18.12.2025_12.53.57_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc567_permutation_in_string/lc567_Permutation_in_string/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc567_permutation_in_string/lc567_Permutation_in_string/lc567_permutation_in_string.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc567_permutation_in_string/lc567_Permutation_in_string/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc567_permutation_in_string/lc567_permutation_in_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc567_permutation_in_string/lc567_permutation_in_string.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc643_max_average_subarray/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc643_max_average_subarray/lc643_max_average_subarray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc643_max_average_subarray/lc643_max_average_subarray.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc643_max_average_subarray/lc643_max_average_subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc643_max_average_subarray/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc904_fruit_into_baskets/18.12.2025_13.51.48_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc904_fruit_into_baskets/lc904_fruit_into_baskets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc904_fruit_into_baskets/lc904_fruits_into_baskets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc904_fruit_into_baskets/lc904_fruits_into_baskets/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc904_fruit_into_baskets/lc904_fruits_into_baskets/LC904.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/lc904_fruit_into_baskets/lc904_fruits_into_baskets/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC1004_Max_Consecutive_Ones_III/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC1004_Max_Consecutive_Ones_III/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC1208_Get_Equal_Substrings_Within_Budget/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC1208_Get_Equal_Substrings_Within_Budget/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC1248_Count_Number_of_Nice_Subarrays/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC1248_Count_Number_of_Nice_Subarrays/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC1423_Maximum_Points_You_Can_Obtain_from_Cards/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC1423_Maximum_Points_You_Can_Obtain_from_Cards/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC1493_Longest_Subarray_of_1s_After_Deleting_One_Element/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC1493_Longest_Subarray_of_1s_After_Deleting_One_Element/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC159_Longest_Substring_with_At_Most_Two_Distinct_Characters/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC159_Longest_Substring_with_At_Most_Two_Distinct_Characters/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC1658_Minimum_Operations_to_Reduce_X_to_Zero/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC1658_Minimum_Operations_to_Reduce_X_to_Zero/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC1695_Maximum_Erasure_Value/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC1695_Maximum_Erasure_Value/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC1838_Frequency_of_the_Most_Frequent_Element/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC1838_Frequency_of_the_Most_Frequent_Element/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC187_Repeated_DNA_Sequences/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC187_Repeated_DNA_Sequences/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC209_Minimum_Size_Subarray_Sum/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC209_Minimum_Size_Subarray_Sum/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC239_Sliding_Window_Maximum/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC239_Sliding_Window_Maximum/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC340_Longest_Substring_with_At_Most_K_Distinct_Characters/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC340_Longest_Substring_with_At_Most_K_Distinct_Characters/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC395_Longest_Substring_with_At_Least_K_Repeating_Characters/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC395_Longest_Substring_with_At_Least_K_Repeating_Characters/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC3_Longest_Substring_Without_Repeating_Characters/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC3_Longest_Substring_Without_Repeating_Characters/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC424_Longest_Repeating_Character_Replacement/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC424_Longest_Repeating_Character_Replacement/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC438_Find_All_Anagrams_in_a_String/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC438_Find_All_Anagrams_in_a_String/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC567_Permutation_in_String/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC567_Permutation_in_String/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC643_Maximum_Average_Subarray_I/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC643_Maximum_Average_Subarray_I/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC713_Subarray_Product_Less_Than_K/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC713_Subarray_Product_Less_Than_K/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC76_Minimum_Window_Substring/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC76_Minimum_Window_Substring/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC904_Fruit_Into_Baskets/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC904_Fruit_Into_Baskets/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC930_Binary_Subarrays_With_Sum/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC930_Binary_Subarrays_With_Sum/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC995_Minimum_Number_of_K_Consecutive_Bit_Flips/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/LC995_Minimum_Number_of_K_Consecutive_Bit_Flips/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SlidingWindow/leetcode_sliding_window_java_25/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/LC20_Valid_parenthesis/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/LC20_Valid_parenthesis/17.12.2025_14.00.45_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/LC20_Valid_parenthesis/LC20Valid_Parenthesis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/LC20_Valid_parenthesis/LC20_Valid_parenthesis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/LC20_Valid_parenthesis/lc20_valid_parenthesis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/LC20_Valid_parenthesis/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/LC739_Daily_Temperature/17.12.2025_14.17.41_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/LC739_Daily_Temperature/LC739_Daily_Temperature.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/LC739_Daily_Temperature/LC739_Daily_Temperature/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/LC739_Daily_Temperature/LC739_Daily_Temperature/LC739_Daily_Temperatures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/LC739_Daily_Temperature/LC739_Daily_Temperature/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/LC739_Daily_Temperature/lc739_Daily_temperature.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/.idea/leetcode_stack_java_25.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC1047_Remove_All_Adjacent_Duplicates_In_String/LC1047_Remove_All_Adjacent_Duplicates_In_String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC1047_Remove_All_Adjacent_Duplicates_In_String/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC1047_Remove_All_Adjacent_Duplicates_In_String/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC1209_Remove_All_Adjacent_Duplicates_in_String_II/LC1209_Remove_All_Adjacent_Duplicates_in_String_II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC1209_Remove_All_Adjacent_Duplicates_in_String_II/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC1209_Remove_All_Adjacent_Duplicates_in_String_II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC1249_Minimum_Remove_to_Make_Valid_Parentheses/LC1249_Minimum_Remove_to_Make_Valid_Parentheses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC1249_Minimum_Remove_to_Make_Valid_Parentheses/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC1249_Minimum_Remove_to_Make_Valid_Parentheses/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC150_Evaluate_Reverse_Polish_Notation/LC150_Evaluate_Reverse_Polish_Notation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC150_Evaluate_Reverse_Polish_Notation/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC150_Evaluate_Reverse_Polish_Notation/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC155_Min_Stack/LC155_Min_Stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC155_Min_Stack/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC155_Min_Stack/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC20_Valid_Parentheses/LC20_Valid_Parentheses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC20_Valid_Parentheses/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC20_Valid_Parentheses/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC224_Basic_Calculator/LC224_Basic_Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC224_Basic_Calculator/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC224_Basic_Calculator/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC227_Basic_Calculator_II/LC227_Basic_Calculator_II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC227_Basic_Calculator_II/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC227_Basic_Calculator_II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC316_Remove_Duplicate_Letters/LC316_Remove_Duplicate_Letters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC316_Remove_Duplicate_Letters/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC316_Remove_Duplicate_Letters/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC32_Longest_Valid_Parentheses/LC32_Longest_Valid_Parentheses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC32_Longest_Valid_Parentheses/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC32_Longest_Valid_Parentheses/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC394_Decode_String/LC394_Decode_String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC394_Decode_String/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC394_Decode_String/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC402_Remove_K_Digits/LC402_Remove_K_Digits.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC402_Remove_K_Digits/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC402_Remove_K_Digits/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC42_Trapping_Rain_Water/LC42_Trapping_Rain_Water.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC42_Trapping_Rain_Water/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC42_Trapping_Rain_Water/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC456_132_Pattern/LC456_132_Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC456_132_Pattern/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC456_132_Pattern/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC496_Next_Greater_Element_I/LC496_Next_Greater_Element_I.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC496_Next_Greater_Element_I/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC496_Next_Greater_Element_I/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC503_Next_Greater_Element_II/LC503_Next_Greater_Element_II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC503_Next_Greater_Element_II/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC503_Next_Greater_Element_II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC71_Simplify_Path/LC71_Simplify_Path.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC71_Simplify_Path/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC71_Simplify_Path/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC735_Asteroid_Collision/LC735_Asteroid_Collision.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC735_Asteroid_Collision/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC735_Asteroid_Collision/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC739_Daily_Temperatures/LC739_Daily_Temperatures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC739_Daily_Temperatures/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC739_Daily_Temperatures/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC84_Largest_Rectangle_in_Histogram/LC84_Largest_Rectangle_in_Histogram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC84_Largest_Rectangle_in_Histogram/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC84_Largest_Rectangle_in_Histogram/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC853_Car_Fleet/LC853_Car_Fleet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC853_Car_Fleet/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC853_Car_Fleet/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC85_Maximal_Rectangle/LC85_Maximal_Rectangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC85_Maximal_Rectangle/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC85_Maximal_Rectangle/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC901_Online_Stock_Span/LC901_Online_Stock_Span.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC901_Online_Stock_Span/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC901_Online_Stock_Span/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC907_Sum_of_Subarray_Minimums/LC907_Sum_of_Subarray_Minimums.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC907_Sum_of_Subarray_Minimums/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC907_Sum_of_Subarray_Minimums/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC946_Validate_Stack_Sequences/LC946_Validate_Stack_Sequences.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC946_Validate_Stack_Sequences/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/LC946_Validate_Stack_Sequences/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Stack/leetcode_stack_java_25/out/production/LC402_Remove_K_Digits/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/LC102_Level_orderBST/17.12.2025_15.44.39_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/LC102_Level_orderBST/LC102_Level_orderBST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/LC102_Level_orderBST/LC102_Level_order_bst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/LC102_Level_orderBST/LC102_Level_order_bst/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/LC102_Level_orderBST/LC102_Level_order_bst/lc102_level_order_bst.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/LC102_Level_orderBST/LC102_Level_order_bst/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/LC104_Max_depth_binary_tree/17.12.2025_15.14.32_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/LC104_Max_depth_binary_tree/LC104_Max_depth_binary_tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/LC104_Max_depth_binary_tree/LC104_max_depth_binary_tree/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/LC104_Max_depth_binary_tree/LC104_max_depth_binary_tree/lc104max_Depth_binary_tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/LC104_Max_depth_binary_tree/LC104_max_depth_binary_tree/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/LC104_Max_depth_binary_tree/lc104_max_depth_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC100_Same_Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC100_Same_Tree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC101_Symmetric_Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC101_Symmetric_Tree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC102_Binary_Tree_Level_Order_Traversal/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC102_Binary_Tree_Level_Order_Traversal/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC104_Maximum_Depth_of_Binary_Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC104_Maximum_Depth_of_Binary_Tree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC110_Balanced_Binary_Tree/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC110_Balanced_Binary_Tree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC110_Balanced_Binary_Tree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC110_Balanced_Binary_Tree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC110_Balanced_Binary_Tree/20.12.2025_17.34.11_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC110_Balanced_Binary_Tree/LC110_Balanced_Binary_Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC110_Balanced_Binary_Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC110_Balanced_Binary_Tree/Solution.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC110_Balanced_Binary_Tree/out/production/LC110_Balanced_Binary_Tree/Solution$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC110_Balanced_Binary_Tree/out/production/LC110_Balanced_Binary_Tree/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC110_Balanced_Binary_Tree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC112_Path_Sum/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC112_Path_Sum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC112_Path_Sum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC112_Path_Sum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC112_Path_Sum/20.12.2025_18.21.10_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC112_Path_Sum/LC112_Path_Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC112_Path_Sum/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC112_Path_Sum/Solution.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC112_Path_Sum/out/production/LC112_Path_Sum/Solution$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC112_Path_Sum/out/production/LC112_Path_Sum/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC112_Path_Sum/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC113_Path_Sum_II/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC113_Path_Sum_II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC114_Flatten_Binary_Tree_to_Linked_List/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC114_Flatten_Binary_Tree_to_Linked_List/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC114_Flatten_Binary_Tree_to_Linked_List/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC114_Flatten_Binary_Tree_to_Linked_List/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC114_Flatten_Binary_Tree_to_Linked_List/20.12.2025_17.49.00_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC114_Flatten_Binary_Tree_to_Linked_List/LC114_Flatten_Binary_Tree_to_Linked_List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC114_Flatten_Binary_Tree_to_Linked_List/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC114_Flatten_Binary_Tree_to_Linked_List/Solution.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC114_Flatten_Binary_Tree_to_Linked_List/out/production/LC114_Flatten_Binary_Tree_to_Linked_List/Solution$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC114_Flatten_Binary_Tree_to_Linked_List/out/production/LC114_Flatten_Binary_Tree_to_Linked_List/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC114_Flatten_Binary_Tree_to_Linked_List/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC124_Binary_Tree_Maximum_Path_Sum/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC124_Binary_Tree_Maximum_Path_Sum/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC144_Binary_Tree_Preorder_Traversal/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC144_Binary_Tree_Preorder_Traversal/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC145_Binary_Tree_Postorder_Traversal/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC145_Binary_Tree_Postorder_Traversal/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC199_Binary_Tree_Right_Side_View/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC199_Binary_Tree_Right_Side_View/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC226_Invert_Binary_Tree/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC226_Invert_Binary_Tree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC226_Invert_Binary_Tree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC226_Invert_Binary_Tree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC226_Invert_Binary_Tree/20.12.2025_18.00.06_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC226_Invert_Binary_Tree/LC226_Invert_Binary_Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC226_Invert_Binary_Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC226_Invert_Binary_Tree/out/production/LC226_Invert_Binary_Tree/Solution$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC226_Invert_Binary_Tree/out/production/LC226_Invert_Binary_Tree/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC226_Invert_Binary_Tree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC230_Kth_Smallest_Element_in_a_BST/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC230_Kth_Smallest_Element_in_a_BST/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC236_Lowest_Common_Ancestor_of_a_Binary_Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC236_Lowest_Common_Ancestor_of_a_Binary_Tree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC297_Serialize_and_Deserialize_Binary_Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC297_Serialize_and_Deserialize_Binary_Tree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC437_Path_Sum_III/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC437_Path_Sum_III/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC543_Diameter_of_Binary_Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC543_Diameter_of_Binary_Tree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC617_Merge_Two_Binary_Trees/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC617_Merge_Two_Binary_Trees/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC617_Merge_Two_Binary_Trees/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC617_Merge_Two_Binary_Trees/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC617_Merge_Two_Binary_Trees/20.12.2025_18.13.52_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC617_Merge_Two_Binary_Trees/LC617_Merge_Two_Binary_Trees.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC617_Merge_Two_Binary_Trees/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC617_Merge_Two_Binary_Trees/Solution.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC617_Merge_Two_Binary_Trees/out/production/LC617_Merge_Two_Binary_Trees/Solution$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC617_Merge_Two_Binary_Trees/out/production/LC617_Merge_Two_Binary_Trees/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC617_Merge_Two_Binary_Trees/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC653_Two_Sum_IV_Input_is_a_BST/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC653_Two_Sum_IV_Input_is_a_BST/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC94_Binary_Tree_Inorder_Traversal/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC94_Binary_Tree_Inorder_Traversal/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC98_Validate_Binary_Search_Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/LC98_Validate_Binary_Search_Tree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trees/leetcode_trees_java_25/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/.idea/Two Pointers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/.idea/labuladong/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/LC167_two_sum_II/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/LC167_two_sum_II/17.12.2025_11.09.30_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/LC167_two_sum_II/LC167_TwoSumII.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/LC167_two_sum_II/LC167_two_sumII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/LC167_two_sum_II/LC167_two_sum_II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/LC167_two_sum_II/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/Solution.jgrasp_canvas_xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/lc125_valid_palindrome/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/lc125_valid_palindrome/17.12.2025_10.35.35_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/lc125_valid_palindrome/LC125_ValidPalindrome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/lc125_valid_palindrome/lc125_valid_palindrome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/lc125_valid_palindrome/lc125_valid_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/lc125_valid_palindrome/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC11_Container_With_Most_Water/LC11_Container_With_Most_Water.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC11_Container_With_Most_Water/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC11_Container_With_Most_Water/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC125_Valid_Palindrome/LC125_Valid_Palindrome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC125_Valid_Palindrome/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC125_Valid_Palindrome/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC15_3Sum/19.12.2025_17.19.24_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC15_3Sum/LC15_3Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC15_3Sum/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC15_3Sum/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC167_Two_Sum_II_Input_Array_Is_Sorted/LC167_Two_Sum_II_Input_Array_Is_Sorted.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC167_Two_Sum_II_Input_Array_Is_Sorted/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC167_Two_Sum_II_Input_Array_Is_Sorted/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC16_3Sum_Closest/LC16_3Sum_Closest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC16_3Sum_Closest/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC16_3Sum_Closest/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC189_Rotate_Array/LC189_Rotate_Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC189_Rotate_Array/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC189_Rotate_Array/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC18_4Sum/LC18_4Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC18_4Sum/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC18_4Sum/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC26_Remove_Duplicates_from_Sorted_Array/LC26_Remove_Duplicates_from_Sorted_Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC26_Remove_Duplicates_from_Sorted_Array/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC26_Remove_Duplicates_from_Sorted_Array/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC27_Remove_Element/LC27_Remove_Element.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC27_Remove_Element/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC27_Remove_Element/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC283_Move_Zeroes/LC283_Move_Zeroes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC283_Move_Zeroes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC283_Move_Zeroes/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC344_Reverse_String/LC344_Reverse_String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC344_Reverse_String/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC344_Reverse_String/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC345_Reverse_Vowels_of_a_String/LC345_Reverse_Vowels_of_a_String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC345_Reverse_Vowels_of_a_String/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC345_Reverse_Vowels_of_a_String/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC349_Intersection_of_Two_Arrays/LC349_Intersection_of_Two_Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC349_Intersection_of_Two_Arrays/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC349_Intersection_of_Two_Arrays/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC455_Assign_Cookies/LC455_Assign_Cookies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC455_Assign_Cookies/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC455_Assign_Cookies/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC524_Longest_Word_in_Dictionary_through_Deleting/LC524_Longest_Word_in_Dictionary_through_Deleting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC524_Longest_Word_in_Dictionary_through_Deleting/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC524_Longest_Word_in_Dictionary_through_Deleting/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC680_Valid_Palindrome_II/LC680_Valid_Palindrome_II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC680_Valid_Palindrome_II/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC680_Valid_Palindrome_II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC75_Sort_Colors/LC75_Sort_Colors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC75_Sort_Colors/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC75_Sort_Colors/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC80_Remove_Duplicates_from_Sorted_Array_II/19.12.2025_17.29.46_REC.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC80_Remove_Duplicates_from_Sorted_Array_II/LC80_Remove_Duplicates_from_Sorted_Array_II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC80_Remove_Duplicates_from_Sorted_Array_II/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC80_Remove_Duplicates_from_Sorted_Array_II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC844_Backspace_String_Compare/LC844_Backspace_String_Compare.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC844_Backspace_String_Compare/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC844_Backspace_String_Compare/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC881_Boats_to_Save_People/LC881_Boats_to_Save_People.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC881_Boats_to_Save_People/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC881_Boats_to_Save_People/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC88_Merge_Sorted_Array/LC88_Merge_Sorted_Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC88_Merge_Sorted_Array/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC88_Merge_Sorted_Array/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC905_Sort_Array_By_Parity/LC905_Sort_Array_By_Parity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC905_Sort_Array_By_Parity/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC905_Sort_Array_By_Parity/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC925_Long_Pressed_Name/LC925_Long_Pressed_Name.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC925_Long_Pressed_Name/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC925_Long_Pressed_Name/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC977_Squares_of_a_Sorted_Array/LC977_Squares_of_a_Sorted_Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC977_Squares_of_a_Sorted_Array/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC977_Squares_of_a_Sorted_Array/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC986_Interval_List_Intersections/LC986_Interval_List_Intersections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC986_Interval_List_Intersections/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/LC986_Interval_List_Intersections/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/leetcode_two_pointers_java_25/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/out/production/LC15_3Sum/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Two Pointers/out/production/LC80_Remove_Duplicates_from_Sorted_Array_II/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../out/production/lc1_two_sum/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="37MxDoa2LzoXXFRfQabc9DyNEah" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Solution.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Colli/Downloads/LeetCodePatternsVisualCombo/LeetCodePatternsVisualCombo/Fast&SlowPointers(Linked List)/leetcode_fast_slow_pointers_java_25/LC82_Remove_Duplicates_from_Sorted_List_II"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TamaCatBrowser">
+    <tabPlacements>
+      <tabPlacement position="BOTTOM_LEFT" url="tamacat://home" />
+    </tabPlacements>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6c6fec7-c43e-4f3e-9a81-3fea301c629f" name="Changes" comment="" />
+      <created>1766726624696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766726624696</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
